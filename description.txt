@@ -1,0 +1,26 @@
+Title: Lead Tracker Chrome Extension
+
+Description:
+
+I have developed a Chrome extension, "Lead Tracker," designed to simplify lead management. This extension allows users to store and track website URLs or leads of potential interest directly from their browser. It's a handy tool for professionals, sales teams, or anyone looking to streamline their lead tracking process.
+
+Key Features:
+
+Add Leads: Easily add leads by pasting or typing website URLs into the extension's input field. The extension validates and saves them to local storage.
+
+Delete Leads: Double-clicking the "Delete" button clears all leads and local storage for a fresh start.
+
+Tab Capture: With a single click on the "Tab" button, the extension captures the URL of the currently active browser tab and adds it to your leads.
+
+Persistent Storage: Leads are saved in the browser's local storage, ensuring that your data remains accessible even after browser restarts.
+
+Clean UI: A clean and user-friendly interface provides a hassle-free experience.
+
+This Chrome extension was built using HTML, CSS, and JavaScript, taking full advantage of the Chrome extension APIs for interaction with the browser. Local storage was employed for data persistence, ensuring that your leads are readily available whenever you need them.
+
+Whether you are in sales, marketing, or any field where tracking leads is crucial, this extension can significantly boost your productivity by simplifying lead management. I invite you to try it out and see how it can benefit your workflow.
+
+You can find the complete source code for this extension on my GitHub repository, allowing you to explore the codebase, make contributions, or adapt it to your specific needs. Feel free to connect with me on LinkedIn if you have any questions or feedback.
+
+GitHub Repository: [Include a link to your GitHub repository]
+LinkedIn Profile: [Include a link to your LinkedIn profile]
